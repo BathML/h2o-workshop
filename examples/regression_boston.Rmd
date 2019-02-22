@@ -1,7 +1,7 @@
 ---
 title: "Regression Example: Boston Housing"
-author: "Jo-fai (Joe) Chow - joe@h2o.ai"
-date: "H2O + LIME Workshop at eRum 2018 (Updated for MilanoR Workshop)"
+author: "Jo-fai (Joe) Chow - joe@h2o.ai, Owen Jones - owen@bathml.org"
+date: "H2O + LIME Workshop at eRum 2018 (Updated for bathML Workshop)"
 output: 
   html_document: 
     df_print: kable
