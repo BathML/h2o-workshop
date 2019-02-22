@@ -9,7 +9,9 @@ Event Two: MilanoR Workshop (25-Jun-2018) [Link](https://www.meetup.com/R-Lab-Mi
 
 Event Three: BathML Workshop (03-Mar-2019) [Link](https://www.meetup.com/BathML/events/258214909/)
 
+
 BathML presenters: Austeja, Owen
+
 Materials: Jo-fai Chow (@matlabulous), H2O
 
 ---
