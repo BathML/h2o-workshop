@@ -21,7 +21,6 @@ print(features)
 ## ------------------------------------------------------------------------
 # Start a local H2O cluster (JVM)
 h2o.init()
-h2o.no_progress() # disable progress bar for RMarkdown
 h2o.removeAll()   # Optional: remove anything from previous session 
 
 ## ------------------------------------------------------------------------
@@ -124,5 +123,5 @@ explanations <- explanations[order(explanations$feature_weight, decreasing = TRU
 print(explanations)
 
 ## ------------------------------------------------------------------------
-sessionInfo()
+#sessionInfo()
 
